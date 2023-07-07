@@ -14,3 +14,10 @@ body{
   padding: 10px;
 
 }
+button{
+  padding: 10px;
+  border-radius: 12px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+}
